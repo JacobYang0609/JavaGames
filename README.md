@@ -8,5 +8,12 @@ Self-designed Java mini-games
 
 
 # Two-Language Version
-* English version: 
-** DogAge.java 
+* English Version: 
+
+  * DogAge.java 
+  * LotterGame.java
+
+* Chinese Version
+
+  * DogAge_CN.java 
+  * LotterGame_CN.java
