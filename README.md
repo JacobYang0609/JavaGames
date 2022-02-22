@@ -13,6 +13,7 @@ Self-designed Java mini-games
 
   * DogAge.java 
   * LotterGame.java
+  * NineNineMultiTable.java
 
 * Chinese Version
 
